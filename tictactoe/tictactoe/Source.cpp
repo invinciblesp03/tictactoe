@@ -1,6 +1,6 @@
 /**************************************************************
-* Programmer Name:Suresh Khaniya && Shree Prakash Shah
-* File Name: Project #05
+* Programmer Name:Shree Prakash Shah
+* File Name: tictactoe
 * Date of Last Modification: 12/14/2021 A.D.
 * Description:The following program is tic tac toe game which includes player-X and player -O.
 * A disply board is shown in the output with three rows and three columns with 9 different positions
