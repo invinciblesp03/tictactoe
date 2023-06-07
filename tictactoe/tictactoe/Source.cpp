@@ -23,11 +23,7 @@ bool draw = false;
 
 
 
-/**************************************************************
-* Programmer Name:Shree Prakash shah.
-* function name:display_board()
-* Description:function to get player input and update the board.
-**************************************************************/
+// function to get player input and update the board.
 
 void display_board() {
 
@@ -51,11 +47,8 @@ void display_board() {
 
 
 
-/**************************************************************
-* Programmer Name:Suresh Khaniya
-* function name:player_turn()
-* Description:function to compute the input and it's result in the 3 by 3 board.
-**************************************************************/
+// function to compute the input and it's result in the 3 by 3 board.
+
 
 
 void player_turn() {
@@ -157,7 +150,7 @@ int main()
 
     cout << "                                    **************-------WELCOME TO----*****************             " << endl;
     cout << "" << endl;
-    cout << "                               *********SURESH AND SHREE PRAKASH TIC TAC TOE GAME ************           " << endl;
+    cout << "                                    ********* SHREE PRAKASH TIC TAC TOE GAME ************           " << endl;
     cout << endl;
     cout << "                            -------@@@@@----------THIS IS A TWO PLAYER GAME.-----------@@@@@-----------" << endl;
     cout << endl;
